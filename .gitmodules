@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CS3216-collectify/collectify-frontend
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CS3216-collectify/collectify-backend
+	branch = main
