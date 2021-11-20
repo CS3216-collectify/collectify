@@ -13,7 +13,7 @@ Users can display their collections in a variety of categories, and view the gal
 This app aims to bring together communities of collectors worldwide and provide an easy way for them to show off their prized collections while appreciating similar collections that others have built up.
 
 # Poster
-![](g8-poster.gif)
+![](group-8-poster.gif)
 
 # Members
 CS3216 AY2021/22 Group 8
