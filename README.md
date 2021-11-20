@@ -1,4 +1,5 @@
 # collectify
+App Link: [collectify.me](https://collectify.me)
 
 <p align="center">
     <img src="logo.png" alt="logo" width="200" margin="auto"/>
@@ -11,6 +12,8 @@ Introducing collectify, a **dedicated cross-platform app** that helps collectors
 Users can display their collections in a variety of categories, and view the galleries of like-minded collectors. They can also initiate trades (or simply strike up a conversation) using collectify's integrated chat. 
 
 This app aims to bring together communities of collectors worldwide and provide an easy way for them to show off their prized collections while appreciating similar collections that others have built up.
+
+Watch our promo video [here](https://youtu.be/-JXjXmV1PtI)!
 
 # Poster
 ![](group-8-poster.gif)
